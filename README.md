@@ -23,7 +23,7 @@ This project provides a **Bash-based script** to automatically apply key Linux s
 >  Backup your system or test in a virtual environment first
 
 ```bash
-git clone https://github.com/yourusername/automated-linux-hardening.git
+git clone https://github.com/derac-mocy/automated-linux-hardening.git
 cd automated-linux-hardening
 chmod +x harden.sh
 sudo ./harden.sh
